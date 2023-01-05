@@ -1,9 +1,37 @@
-I am a full-stack software engineer who prides myself on my technical development skills and my strengths in communication and working with others. I am a highly capable person and I will bring positive, professional, and compassionate energy to any team I am a part of. I have designed, implemented, and deployed 3 full stack projects using a wide variety of programming languages and tools.
+<h1 align="left" id="macropower-title">🌴 Hello there! I'm Eliza 😎 </h1>
+<h3 align="left">I'm an inquisitve friendly programmer who is always seeking new ways to improve my abilities.</h3>
 
+<!-- I am a full-stack software engineer who prides myself on my technical development skills and my strengths in communication and working with others 💫 -->
+
+---
+
+
+
+<img width="380" align="right" alt="Github"
+src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif"
+/> 
+
+## A little more about me...  
+
+- 🌎 I've lived in Los Angeles, CA for over a decade, but I grew up in South Carolina.
+- 🎬 Before I got into tech, I had a successful career working on television shows including Modern Family, Silicon Valley, and The New Girl.
+- 🌈 Current Goals: Make new connections with interesting and kind people working in tech and learning to cook Thai food.
+- 🏆 I'm also having a great interest in competitive programming.
+- 🎶 Favorite Job: Working in a record store in my early 20s (unfortunately it paid $6.50/hour).
+- 📫 How to reach me: elizawimberly@gmail.com
+
+
+<!-- 
+ <em><b>I love connecting with different people</b> so if you want to say hi,<b> that would be wonderful!</b> :)</em> -->
+ 
+ <br>
+ <br>
+
+---
 
 ## Technologies Used:
 
----
+
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -18,17 +46,31 @@ I am a full-stack software engineer who prides myself on my technical developmen
 
 ---
 
+
+## <b>Connect with me at the links below!</b>
+<p>
+<!-- LinkedIn -->
+<a 
+    target="_blank"
+    href="https://www.linkedin.com/in/eliza-wimberly-773896205/">
+    <img
+        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </img>
+</a>
+<!-- <br> -->
+<!-- GMail -->
+<a 
+    target="_blank" 
+    href="mailto:elizawimberly@gmail.com">
+    <img
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </img>    
+</a>
+
+</p>
+
 <!--
 **elizawimberly/elizawimberly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
