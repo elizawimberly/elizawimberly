@@ -16,7 +16,6 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/scr
 - 🌎 I've lived in Los Angeles, CA for over a decade, but I grew up in South Carolina.
 - 🎬 Before I got into tech, I had a successful career working on television shows including Modern Family, Silicon Valley, and The New Girl.
 - 🌈 Current Goals: Make new connections with interesting and kind people working in tech and learning to cook Thai food.
-- 🏆 I'm also having a great interest in competitive programming.
 - 🎶 Favorite Job: Working in a record store in my early 20s (unfortunately it paid $6.50/hour).
 - 📫 How to reach me: elizawimberly@gmail.com
 
