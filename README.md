@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">🌴 Hello there! I'm Eliza 😎 </h1>
-<h3 align="left">I'm an inquisitve friendly programmer who is always seeking new ways to improve my abilities.</h3>
+<h3 align="left">I'm an inquisitive friendly programmer who is always seeking new ways to improve my abilities.</h3>
 
 <!-- I am a full-stack software engineer who prides myself on my technical development skills and my strengths in communication and working with others 💫 -->
 
