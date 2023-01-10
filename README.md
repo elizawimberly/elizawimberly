@@ -10,21 +10,27 @@
 <img width="380" align="right" alt="Github"
 src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif"
 /> 
+## Some tech favs...
+
+- Using React. It feels very intuitive and dynamic. It's a pleasure to use, and I'm eager to expand my knowledge of its capabilities and implementations.
+- CSS is a tool that I’ve grown to find very satisfying. I appreciate the creativity and expression it allows me to bring to my work.
+- Using ORMs like Sequelize and SQLAlchemy is very rewarding to my brain. Examining the relationships between different data collections and figuring out a logical way to organize information is very gratifying.
 
 ## A little more about me...  
 
-- 🌎 I've lived in Los Angeles, CA for over a decade, but I grew up in South Carolina.
 - 🎬 Before I got into tech, I had a successful career working on television shows including Modern Family, Silicon Valley, and The New Girl.
-- 🌈 Current Goals: Make new connections with interesting and kind people working in tech and learning to cook Thai food.
-- 🎶 Favorite Job: Working in a record store in my early 20s (unfortunately it paid $6.50/hour).
+- 🌈 Current Goals: Make new connections with interesting and kind people working
+  in tech and learning to cook Thai food.
+- 🎶 Favorite Job: Working in a record store in my early 20s (unfortunately it paid 
+  $6.50/hour).
+- 🌎 I've lived in Los Angeles, CA for over a decade, but I grew up in South Carolina.
 - 📫 How to reach me: elizawimberly@gmail.com
 
 
-<!-- 
- <em><b>I love connecting with different people</b> so if you want to say hi,<b> that would be wonderful!</b> :)</em> -->
- 
+
+<!--  
  <br>
- <br>
+ <br> -->
 
 ---
 
